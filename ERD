@@ -1,0 +1,8 @@
+```mermaid
+erDiagram
+Product {Nike Shoes} 
+Nikes are best selling shoes and most liked by men, women, kids
+Customer{Kids, Men,and women}
+All genders wear Nike
+Sales{ $20,000}
+Inventory{$30,000}
